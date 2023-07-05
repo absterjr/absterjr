@@ -31,6 +31,7 @@
 ### Design and Visualization:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
+![SAS Visual Analytics](https://img.shields.io/badge/SAS%20Visual%20Analytics-%23CC6699.svg?style=plastic&logo=SAS&logoColor=white)
 
 ### Data Science and Machine Learning:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
@@ -40,6 +41,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+![SAS Enterprise Miner](https://img.shields.io/badge/SAS%20Enterprise%20Miner-%23322F8D.svg?style=plastic&logo=SAS&logoColor=white)
+![SAS Text Analytics](https://img.shields.io/badge/SAS%20Text%20Analytics-%23006699.svg?style=plastic&logo=SAS&logoColor=white)
 
 ### Big Data:
 ![Pig](https://img.shields.io/badge/Pig-%23F37621.svg?style=plastic&logo=apache%20pig&logoColor=white)
