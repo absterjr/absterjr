@@ -54,8 +54,9 @@ Big Data:
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=absterjr&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=absterjr&theme=dracula&no-frame=true&no-bg=false&margin-w=4&rank=SECRET,AAA,AA,A,B,C" alt="GitHub Profile Trophy" />
 </div>
+
 
 
 ### 🔝 Top Contributed Repo
