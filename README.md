@@ -65,7 +65,10 @@ Big Data:
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Codes" />
+</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
