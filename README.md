@@ -60,7 +60,9 @@ Big Data:
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=absterjr&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=absterjr&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
