@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 🔭 Currently working on: Data analytics, big data, and AI projects<br>👯 Looking to collaborate on: Innovative data science projects<br>🤝 Seeking help with: Advanced machine learning and NLP techniques<br>🌱 Currently learning: Cutting-edge technologies and algorithms in data science, while enhancing web development skills (HTML/CSS)<br>💬 Ask me about: Data analysis, deep learning models, and project implementation<br>⚡ Fun fact: I enjoy swimming, sketching, exploring different anime genres, and indulging in manga.
 
