@@ -12,7 +12,8 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/absterjr)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbsterJr)
 
-## [My Website](https://absterjr.github.io/My-Website/).
+## :globe_with_meridians: [My Website](https://absterjr.github.io/My-Website/)
+
 ## 💻 Tech Stack:
 ### Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
