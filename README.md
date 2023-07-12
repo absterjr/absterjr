@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=absterjr&style=flat-square&color=blue" alt=""/>
 
 <h1>
   Hello There
@@ -16,7 +11,7 @@
 🤝 Seeking help with: Advanced machine learning and NLP techniques<br>
 🌱 Currently learning: Cutting-edge technologies and algorithms in data science, while enhancing web development skills (HTML/CSS)<br>
 💬 Ask me about: Data analysis, deep learning models, and project implementation<br>
-⚡ Fun fact: I enjoy swimming, sketching, exploring different anime genres, and indulging in manga.
+⚡ Fun fact: I enjoy swimming, sketching, exploring different anime genres, and reading manga.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/absterjr)
