@@ -56,9 +56,7 @@
 # 📊 GitHub Stats:
   <img src="https://github-readme-stats.vercel.app/api?username=absterjr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=absterjr&theme=dracula&hide_border=true" alt="GitHub Streak" />
-<div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absterjr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
 
 
 ## 🏆 GitHub Trophies
