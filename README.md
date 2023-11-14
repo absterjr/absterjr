@@ -3,9 +3,13 @@
 
 ## 💫 About Me:
 🚀 **Currently contributing to:** Leveraging cutting-edge Large Language Models (LLMs) such as ChatGPT and Llama in Artificial Intelligence.
+
 👯 **Actively engaged in:** Fine-tuning advanced LLMs to develop an Embedded OpenAI GPT ChatBot, innovatively utilizing user-uploaded files for comprehensive responses.
-🔍 **Pioneering the implementation of ** A VectorDB, significantly enhancing the knowledge base and capabilities of the GPT-powered system.
+
+🔍 **Pioneering the implementation of** A VectorDB, significantly enhancing the knowledge base and capabilities of the GPT-powered system.
+
 💬 **Open to discussing:** My work on developing intelligent systems, insights into data science projects, and the evolving landscape of Artificial Intelligence.
+
 ⚡ **Fun fact:** Beyond the code, you'll find me enjoying the serenity of swimming, sketching, exploring diverse anime genres, and reading manga.
 
 ## 🌐 Socials:
