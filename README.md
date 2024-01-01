@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Implementation of A VectorDB, significantly enhancing the knowledge base and capabilities of the GPT-powered system.**
 
-- 👨‍💻 All of my projects are available at [https://www.iamaryaman.tech/](https://www.iamaryaman.tech/)
+- 👨‍💻 All of my projects are available at [https://github.com/absterjr](https://github.com/absterjr)
 
 - 💬 Ask me about **Anything related to data**
 
