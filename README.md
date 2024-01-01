@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absterjr&label=Profile%20views&color=0e75b6&style=flat" alt="absterjr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=absterjr" alt="absterjr" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=absterjr" alt="absterjr" /></a> </p>
 
 - 🔭 I’m currently working on **Leveraging cutting-edge Large Language Models (LLMs) such as ChatGPT and Llama in Artificial Intelligence.**
 
@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **Implementation of A VectorDB, significantly enhancing the knowledge base and capabilities of the GPT-powered system.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/absterjr](https://github.com/absterjr)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/absterjr)
 
 - 💬 Ask me about **Anything related to data**
 
-- 📫 How to reach me **aryamananand5@gmail.com**
+- 📫 How to reach me [aryamananand5@gmail.com](mailto:aryamananand5@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
