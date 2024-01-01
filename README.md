@@ -1,73 +1,38 @@
-# Hello There! 👋
-![Hello Gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<h1 align="center">Hi 👋, I'm Aryaman</h1>
+<h3 align="center">A passionate data science engineer from India</h3>
 
-## 💫 About Me:
-🚀 **Currently contributing to:** Leveraging cutting-edge Large Language Models (LLMs) such as ChatGPT and Llama in Artificial Intelligence.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=absterjr&label=Profile%20views&color=0e75b6&style=flat" alt="absterjr" /> </p>
 
-👯 **Actively engaged in:** Fine-tuning advanced LLMs to develop an Embedded OpenAI GPT ChatBot, innovatively utilizing user-uploaded files for comprehensive responses.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=absterjr" alt="absterjr" /></a> </p>
 
-🔍 **Pioneering the implementation of** A VectorDB, significantly enhancing the knowledge base and capabilities of the GPT-powered system.
+- 🔭 I’m currently working on **Leveraging cutting-edge Large Language Models (LLMs) such as ChatGPT and Llama in Artificial Intelligence.**
 
-💬 **Open to discussing:** My work on developing intelligent systems, insights into data science projects, and the evolving landscape of Artificial Intelligence.
+- 🌱 I’m currently learning **AI/ML**
 
-⚡ **Fun fact:** Beyond the code, you'll find me enjoying the serenity of swimming, sketching, exploring diverse anime genres, and reading manga.
+- 👯 I’m looking to collaborate on **Fine-tuning advanced LLMs to develop an Embedded OpenAI GPT ChatBot.**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/absterjr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/absterjr)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/absterjr)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbsterJr)
+- 🤝 I’m looking for help with **Implementation of A VectorDB, significantly enhancing the knowledge base and capabilities of the GPT-powered system.**
 
-## 🌏: [iamaryaman.tech](https://iamaryaman.tech)
+- 👨‍💻 All of my projects are available at [https://www.iamaryaman.tech/](https://www.iamaryaman.tech/)
 
-## 💻 Tech Stack:
-### Programming Languages:
-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+- 💬 Ask me about **Anything related to data**
 
-### Web Development:
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+- 📫 How to reach me **aryamananand5@gmail.com**
 
-### Databases:
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/absterjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="absterjr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/absterjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="absterjr" height="30" width="40" /></a>
+<a href="https://kaggle.com/absterjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="absterjr" height="30" width="40" /></a>
+<a href="https://instagram.com/absterjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="absterjr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/absterjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="absterjr" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/absterjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="absterjr" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@absterjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@absterjr" height="30" width="40" /></a>
+</p>
 
-### Design and Visualization:
-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-- ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
-- ![SAS Visual Analytics](https://img.shields.io/badge/SAS%20Visual%20Analytics-%23CC6699.svg?style=plastic&logo=SAS&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Data Science and Machine Learning:
-- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-- ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-- ![SAS Enterprise Miner](https://img.shields.io/badge/SAS%20Enterprise%20Miner-%23322F8D.svg?style=plastic&logo=SAS&logoColor=white)
-- ![SAS Text Analytics](https://img.shields.io/badge/SAS%20Text%20Analytics-%23006699.svg?style=plastic&logo=SAS&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absterjr&show_icons=true&locale=en" alt="absterjr" /></p>
 
-### Big Data:
-- ![Pig](https://img.shields.io/badge/Pig-%23F37621.svg?style=plastic&logo=apache%20pig&logoColor=white)
-- ![Hive](https://img.shields.io/badge/Hive-%23FDEE21.svg?style=plastic&logo=apache%20hive&logoColor=black)
-- ![Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=plastic&logo=apache%20spark&logoColor=white)
-- ![Hadoop](https://img.shields.io/badge/Hadoop-%23FABC2A.svg?style=plastic&logo=apache%20hadoop&logoColor=white)
-
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=absterjr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=absterjr&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absterjr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=absterjr&theme=dracula&no-frame=true&no-bg=false&margin-w=4&rank=SECRET,AAA,AA,A,B,C)
-
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=absterjr&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### ✍️ Random Dev Quote
-![Random Dev Codes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=absterjr&" alt="absterjr" /></p>
