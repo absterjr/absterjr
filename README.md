@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=absterjr&label=Profile%20views&color=0e75b6&style=flat" alt="absterjr" />
   <a href="https://linkedin.com/in/absterjr"><img src="https://img.shields.io/badge/LinkedIn-absterjr-0077B5?style=flat&logo=linkedin" /></a>
-  <a href="https://iamaryaman.tech"><img src="https://img.shields.io/badge/Portfolio-iamaryaman.tech-1F3864?style=flat&logo=google-chrome" /></a>
+  <a href="https://aryaman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-aryaman-1F3864?style=flat&logo=google-chrome" /></a>
   <a href="mailto:aryamananand5@gmail.com"><img src="https://img.shields.io/badge/Email-aryamananand5@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
