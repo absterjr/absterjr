@@ -73,12 +73,6 @@ Not just dashboards — pipelines, logic, and interfaces that turn a 3-day repor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absterjr&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=absterjr&no-frame=true&row=1&column=6" alt="absterjr trophies" />
-  </a>
-</p>
-
 ---
 
 ## Education
