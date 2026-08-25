@@ -20,7 +20,6 @@ Not just dashboards — pipelines, logic, and interfaces that turn a 3-day repor
 **What that's looked like in practice:**
 
 - ⚡ A weekly targeting process that consumed **8 hours now takes 15 minutes**
-- 🧠 **40+ neuroscience researchers** moved off custom report requests onto a self-serve web app I built from scratch
 - 🤖 Chatbots I deployed handle **60%+ of repetitive data queries** — so teams focus on strategy, not data wrangling
 - 🛠️ A DDL validation tool cut table standardization from **30 minutes to 3 seconds**, adopted by 80+ engineers and analysts
 
