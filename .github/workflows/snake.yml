@@ -25,10 +25,19 @@ jobs:
 
       - name: Paint arcade background
         run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
           python - <<'PY'
           import pathlib
           p = pathlib.Path("dist/snake.svg")
           svg = p.read_text()
+          svg = svg.replace("--cs:purple", "--cs:#39ff14")
+          svg = svg.replace("--ce:#ebedf0", "--ce:#0f1a17")
+          svg = svg.replace("--c0:#ebedf0", "--c0:#0f1a17")
+          svg = svg.replace("--c1:#9be9a8", "--c1:#0e4429")
+          svg = svg.replace("--c2:#40c463", "--c2:#006d32")
+          svg = svg.replace("--c3:#30a14e", "--c3:#26a641")
+          svg = svg.replace("--c4:#216e39", "--c4:#39d353")
+          svg = svg.replace("--cb:#1b1f230a", "--cb:#16233c")
           bg = '<rect x="-16" y="-32" width="880" height="192" fill="#05070f"/>'
           svg = svg.replace("</desc>", "</desc>" + bg, 1)
           p.write_text(svg)
