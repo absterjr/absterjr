@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="bannerTitle bannerDesc">
   <title id="bannerTitle">Arcade title screen — Player 1: Aryaman</title>
-  <desc id="bannerDesc">Retro arcade banner with a neon grid, pixel astronaut and snake game. Text reads: Player 1, Aryaman, Product Analyst, Drug Development Analytics, Eli Lilly.</desc>
+  <desc id="bannerDesc">Retro arcade banner with a neon grid, pixel astronaut and snake game. Text reads: Player 1, Aryaman, Data Engineer, Drug Development Data Platforms, Eli Lilly.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
@@ -62,7 +62,7 @@
   </g>
   <rect x="420" y="166" width="360" height="2" fill="url(#titleGrad)" opacity="0.7"/>
 
-  <text x="600" y="198" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2.5" fill="#8fa6c4">PRODUCT ANALYST  //  DRUG DEVELOPMENT ANALYTICS  //  ELI LILLY</text>
+  <text x="600" y="198" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2.5" fill="#8fa6c4">DATA ENGINEER  //  DRUG DEVELOPMENT DATA PLATFORMS  //  ELI LILLY</text>
 
   <g font-family="Consolas, 'Courier New', monospace">
     <rect x="52" y="244" width="150" height="48" fill="#070d1a" stroke="#ffd400" stroke-opacity="0.7"/>

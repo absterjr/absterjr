@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="achTitle achDesc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 570" width="1200" height="570" role="img" aria-labelledby="achTitle achDesc">
   <title id="achTitle">Achievements unlocked</title>
-  <desc id="achDesc">Three achievements. Legendary: Speedrun, rebuilt the weekly targeting process from 8 hours to 15 minutes. Epic: Autopilot, chatbots handle 60 percent or more of repetitive data queries. Rare: Power-up, DDL validation tool cut table standardization from 30 minutes to 3 seconds and was adopted by 80+ engineers and analysts.</desc>
+  <desc id="achDesc">Four achievements. Legendary POWER-UP: Python and Streamlit DDL validation tool adopted by 20 engineers and 60+ analytics members, cutting table standardization from 30 minutes to 3 seconds with unlimited batch processing. Mythic COPILOT: embedded Claude Code into DDL quality checks, PR creation and schema validation on Databricks Unity Catalog, compressing multi-hour work into minutes. Epic ATOMIC: migrated Redshift ETL to atomic MERGE-based Delta Lake loads across dev, QA and prod via GitHub Actions, eliminating data integrity risks. Rare OVERWATCH: automated monitoring across 6 pipelines and 11 tables with scheduled KPI checks and auto-distributed reports. Legacy achievements: SPEEDRUN, 8 hours to 15 minutes; AUTOPILOT, 60%+ repetitive queries deflected.</desc>
 
   <defs>
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
@@ -15,41 +15,40 @@
     </pattern>
   </defs>
 
-  <rect width="1200" height="420" fill="#05070f"/>
-  <rect width="1200" height="420" fill="url(#grid)" opacity="0.7"/>
-  <rect x="1" y="1" width="1198" height="418" fill="none" stroke="#1c2b47"/>
+  <rect width="1200" height="570" fill="#05070f"/>
+  <rect width="1200" height="570" fill="url(#grid)" opacity="0.7"/>
+  <rect x="1" y="1" width="1198" height="568" fill="none" stroke="#1c2b47"/>
   <g stroke="#00f0ff" stroke-width="2" opacity="0.55" fill="none">
     <path d="M16 40 V16 H40"/>
     <path d="M1160 16 H1184 V40"/>
-    <path d="M1184 380 V404 H1160"/>
-    <path d="M40 404 H16 V380"/>
+    <path d="M1184 530 V554 H1160"/>
+    <path d="M40 554 H16 V530"/>
   </g>
 
   <text x="48" y="64" font-family="Consolas, 'Courier New', monospace" font-size="28" font-weight="700" letter-spacing="5" fill="#39ff14" filter="url(#glow)">ACHIEVEMENTS UNLOCKED</text>
-  <text x="1152" y="60" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2" fill="#ffd400">3 / 3 COMPLETE</text>
+  <text x="1152" y="60" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2" fill="#ffd400">4 / 4 COMPLETE</text>
   <line x1="48" y1="86" x2="1152" y2="86" stroke="#1c2b47"/>
 
   <g font-family="Consolas, 'Courier New', monospace">
     <g>
-      <rect x="48" y="118" width="356" height="250" rx="4" fill="#070d1a" stroke="#ffd400" stroke-opacity="0.45"/>
-      <rect x="48" y="118" width="356" height="4" fill="#ffd400"/>
-      <g transform="translate(198,144)" filter="url(#glow)">
+      <rect x="48" y="112" width="540" height="190" rx="4" fill="#070d1a" stroke="#ffd400" stroke-opacity="0.45"/>
+      <rect x="48" y="112" width="540" height="4" fill="#ffd400"/>
+      <g transform="translate(72,144)" filter="url(#glow)">
         <path d="M31 3 L57 3 L41 27 L57 27 L21 63 L29 37 L9 37 Z" fill="#7a5f00" opacity="0.7"/>
         <path d="M28 0 L54 0 L38 24 L54 24 L18 60 L26 34 L6 34 Z" fill="#ffd400"/>
       </g>
-      <text x="226" y="232" text-anchor="middle" font-size="10" letter-spacing="3" fill="#ffd400">LEGENDARY</text>
-      <text x="226" y="260" text-anchor="middle" font-size="21" font-weight="700" letter-spacing="2" fill="#e6f1ff">SPEEDRUN</text>
-      <text x="226" y="292" text-anchor="middle" font-size="14" fill="#8fa6c4">Weekly targeting process</text>
-      <text x="226" y="314" text-anchor="middle" font-size="14" fill="#ffd400">8 hours → 15 minutes</text>
-      <rect x="66" y="340" width="320" height="3" fill="#16233c"/>
-      <rect x="66" y="340" width="320" height="3" fill="#ffd400"/>
-      <text x="226" y="358" text-anchor="middle" font-size="9" letter-spacing="2" fill="#39ff14">UNLOCKED</text>
+      <text x="160" y="152" font-size="10" letter-spacing="3" fill="#ffd400">LEGENDARY</text>
+      <text x="160" y="184" font-size="22" font-weight="700" letter-spacing="2" fill="#e6f1ff">POWER-UP</text>
+      <text x="160" y="216" font-size="13" fill="#8fa6c4">Python/Streamlit DDL validator</text>
+      <text x="160" y="238" font-size="13" fill="#ffd400">30 min → 3 sec · 20 engineers + 60+ analytics</text>
+      <text x="160" y="262" font-size="12" fill="#61708c">unlimited batches · enterprise governance rules</text>
+      <rect x="48" y="298" width="540" height="4" fill="#ffd400" opacity="0.8"/>
     </g>
 
     <g>
-      <rect x="422" y="118" width="356" height="250" rx="4" fill="#070d1a" stroke="#ff2e88" stroke-opacity="0.45"/>
-      <rect x="422" y="118" width="356" height="4" fill="#ff2e88"/>
-      <g transform="translate(572,144)" filter="url(#glow)">
+      <rect x="612" y="112" width="540" height="190" rx="4" fill="#070d1a" stroke="#ff2e88" stroke-opacity="0.45"/>
+      <rect x="612" y="112" width="540" height="4" fill="#ff2e88"/>
+      <g transform="translate(636,144)" filter="url(#glow)">
         <rect x="27" y="4" width="6" height="10" fill="#ff2e88"/>
         <rect x="26" y="0" width="8" height="6" fill="#ffd400"/>
         <rect x="0" y="22" width="6" height="14" fill="#ff2e88"/>
@@ -62,34 +61,49 @@
         <rect x="22" y="38" width="16" height="4" fill="#071226"/>
         <rect x="22" y="48" width="16" height="10" fill="#ff2e88"/>
       </g>
-      <text x="600" y="232" text-anchor="middle" font-size="10" letter-spacing="3" fill="#ff2e88">EPIC</text>
-      <text x="600" y="260" text-anchor="middle" font-size="21" font-weight="700" letter-spacing="2" fill="#e6f1ff">AUTOPILOT</text>
-      <text x="600" y="292" text-anchor="middle" font-size="14" fill="#8fa6c4">Chatbots deflect 60%+ of</text>
-      <text x="600" y="314" text-anchor="middle" font-size="14" fill="#ff2e88">repetitive data queries</text>
-      <rect x="440" y="340" width="320" height="3" fill="#16233c"/>
-      <rect x="440" y="340" width="320" height="3" fill="#ff2e88"/>
-      <text x="600" y="358" text-anchor="middle" font-size="9" letter-spacing="2" fill="#39ff14">UNLOCKED</text>
+      <text x="724" y="152" font-size="10" letter-spacing="3" fill="#ff2e88">MYTHIC</text>
+      <text x="724" y="184" font-size="22" font-weight="700" letter-spacing="2" fill="#e6f1ff">COPILOT</text>
+      <text x="724" y="216" font-size="13" fill="#8fa6c4">Claude Code: DDL checks, PRs, schema validation</text>
+      <text x="724" y="238" font-size="13" fill="#ff2e88">Databricks + Unity Catalog · hours → minutes</text>
+      <text x="724" y="262" font-size="12" fill="#61708c">multi-hour manual engineering effort → minutes</text>
+      <rect x="612" y="298" width="540" height="4" fill="#ff2e88" opacity="0.8"/>
     </g>
 
     <g>
-      <rect x="796" y="118" width="356" height="250" rx="4" fill="#070d1a" stroke="#00f0ff" stroke-opacity="0.45"/>
-      <rect x="796" y="118" width="356" height="4" fill="#00f0ff"/>
-      <g transform="translate(946,144)" filter="url(#glow)">
-        <rect x="24" y="26" width="12" height="34" fill="#00f0ff"/>
-        <path d="M4 32 L30 4 L56 32 L44 32 L30 16 L16 32 Z" fill="#00f0ff"/>
-        <rect x="12" y="56" width="36" height="4" fill="#00f0ff" opacity="0.35"/>
+      <rect x="48" y="318" width="540" height="190" rx="4" fill="#070d1a" stroke="#00f0ff" stroke-opacity="0.45"/>
+      <rect x="48" y="318" width="540" height="4" fill="#00f0ff"/>
+      <g transform="translate(72,350)" filter="url(#glow)">
+        <ellipse cx="32" cy="12" rx="24" ry="8" fill="none" stroke="#00f0ff" stroke-width="4"/>
+        <path d="M8 12 V48 C8 52 18 56 32 56 C46 56 56 52 56 48 V12" fill="none" stroke="#00f0ff" stroke-width="4"/>
+        <path d="M8 30 C8 34 18 38 32 38 C46 38 56 34 56 30" fill="none" stroke="#00f0ff" stroke-width="3" opacity="0.6"/>
+        <path d="M38 44 l6 6 l12 -14" fill="none" stroke="#39ff14" stroke-width="4"/>
       </g>
-      <text x="974" y="232" text-anchor="middle" font-size="10" letter-spacing="3" fill="#00f0ff">RARE</text>
-      <text x="974" y="260" text-anchor="middle" font-size="21" font-weight="700" letter-spacing="2" fill="#e6f1ff">POWER-UP</text>
-      <text x="974" y="292" text-anchor="middle" font-size="14" fill="#8fa6c4">DDL validation: 30 min → 3 sec</text>
-      <text x="974" y="314" text-anchor="middle" font-size="14" fill="#00f0ff">equipped by 80+ engineers</text>
-      <rect x="814" y="340" width="320" height="3" fill="#16233c"/>
-      <rect x="814" y="340" width="320" height="3" fill="#00f0ff"/>
-      <text x="974" y="358" text-anchor="middle" font-size="9" letter-spacing="2" fill="#39ff14">UNLOCKED</text>
+      <text x="160" y="358" font-size="10" letter-spacing="3" fill="#00f0ff">EPIC</text>
+      <text x="160" y="390" font-size="22" font-weight="700" letter-spacing="2" fill="#e6f1ff">ATOMIC</text>
+      <text x="160" y="422" font-size="13" fill="#8fa6c4">Redshift ETL → atomic MERGE on Delta Lake</text>
+      <text x="160" y="444" font-size="13" fill="#00f0ff">dev/qa/prod via GitHub Actions · zero integrity risk</text>
+      <text x="160" y="468" font-size="12" fill="#61708c">eliminating non-atomic data integrity risks</text>
+      <rect x="48" y="504" width="540" height="4" fill="#00f0ff" opacity="0.8"/>
     </g>
 
-    <line x1="48" y1="390" x2="1152" y2="390" stroke="#1c2b47"/>
-    <text x="48" y="408" font-size="10" letter-spacing="2" fill="#61708c">RARITY: LEGENDARY  ·  EPIC  ·  RARE</text>
-    <text x="1152" y="408" text-anchor="end" font-size="10" letter-spacing="2" fill="#39ff14">ALL ACHIEVEMENTS UNLOCKED</text>
+    <g>
+      <rect x="612" y="318" width="540" height="190" rx="4" fill="#070d1a" stroke="#39ff14" stroke-opacity="0.45"/>
+      <rect x="612" y="318" width="540" height="4" fill="#39ff14"/>
+      <g transform="translate(636,350)" filter="url(#glow)">
+        <path d="M4 32 L18 18 H46 L60 32 L46 46 H18 Z" fill="none" stroke="#39ff14" stroke-width="4"/>
+        <rect x="25" y="25" width="14" height="14" fill="#39ff14"/>
+        <rect x="29" y="29" width="6" height="6" fill="#071018"/>
+      </g>
+      <text x="724" y="358" font-size="10" letter-spacing="3" fill="#39ff14">RARE</text>
+      <text x="724" y="390" font-size="22" font-weight="700" letter-spacing="2" fill="#e6f1ff">OVERWATCH</text>
+      <text x="724" y="422" font-size="13" fill="#8fa6c4">Monitoring 6 pipelines + 11 tables</text>
+      <text x="724" y="444" font-size="13" fill="#39ff14">Scheduled KPI checks · reports auto-distributed</text>
+      <text x="724" y="468" font-size="12" fill="#61708c">manual oversight eliminated</text>
+      <rect x="612" y="504" width="540" height="4" fill="#39ff14" opacity="0.8"/>
+    </g>
+
+    <line x1="48" y1="534" x2="1152" y2="534" stroke="#1c2b47"/>
+    <text x="48" y="552" font-size="10" letter-spacing="2" fill="#61708c">LEGACY SAVE: SPEEDRUN 8h → 15m  ·  AUTOPILOT 60%+ QUERIES</text>
+    <text x="1152" y="552" text-anchor="end" font-size="10" letter-spacing="2" fill="#39ff14">ALL ACHIEVEMENTS UNLOCKED</text>
   </g>
 </svg>

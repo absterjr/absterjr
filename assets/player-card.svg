@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="profileTitle profileDesc">
   <title id="profileTitle">Player profile — Aryaman</title>
-  <desc id="profileDesc">Game character sheet. Player: Aryaman, handle absterjr. Class: Product Analyst. Guild: Eli Lilly and Company. Server: Bengaluru, India. Main quest: drug development analytics across neuroscience and immunology. Playtime: 2+ years. Save file: B.Tech in Data Science and Engineering, Manipal Institute of Technology, GPA 8.27.</desc>
+  <desc id="profileDesc">Game character sheet. Player: Aryaman, handle absterjr. Class: Data Engineer. Guild: Eli Lilly and Company. Server: Bengaluru, India. Main quest: governed data pipelines and AI-assisted workflows for drug development. Playtime: 2+ years. Save file: B.Tech in Data Science and Engineering, Manipal Institute of Technology, GPA 8.27.</desc>
 
   <defs>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
@@ -84,13 +84,13 @@
     <text x="198" y="342" text-anchor="middle" font-size="20" letter-spacing="3" fill="#e6f1ff">ARYAMAN</text>
     <text x="198" y="362" text-anchor="middle" font-size="12" letter-spacing="2" fill="#39ff14">@ABSTERJR</text>
     <rect x="78" y="378" width="240" height="26" rx="2" fill="#0a121f" stroke="#ffd400" stroke-opacity="0.55"/>
-    <text x="198" y="395" text-anchor="middle" font-size="10" letter-spacing="2" fill="#ffd400">CLASS: PRODUCT ANALYST</text>
+    <text x="198" y="395" text-anchor="middle" font-size="10" letter-spacing="2" fill="#ffd400">CLASS: DATA ENGINEER</text>
 
     <g>
       <rect x="380" y="116" width="376" height="72" rx="4" fill="#070d1a" stroke="#16233c"/>
       <rect x="380" y="116" width="3" height="72" fill="#ffd400"/>
       <text x="400" y="138" font-size="9" letter-spacing="2" fill="#61708c">CLASS</text>
-      <text x="400" y="166" font-size="16" fill="#e6f1ff">Product Analyst</text>
+      <text x="400" y="166" font-size="16" fill="#e6f1ff">Data Engineer</text>
 
       <rect x="776" y="116" width="376" height="72" rx="4" fill="#070d1a" stroke="#16233c"/>
       <rect x="776" y="116" width="3" height="72" fill="#ff2e88"/>
@@ -110,7 +110,7 @@
       <rect x="380" y="276" width="772" height="72" rx="4" fill="#070d1a" stroke="#16233c"/>
       <rect x="380" y="276" width="3" height="72" fill="#ffd400"/>
       <text x="400" y="298" font-size="9" letter-spacing="2" fill="#61708c">MAIN QUEST</text>
-      <text x="400" y="326" font-size="15" fill="#e6f1ff">Drug development analytics across neuroscience and immunology</text>
+      <text x="400" y="326" font-size="15" fill="#e6f1ff">Governed data pipelines and AI-assisted workflows for drug development</text>
 
       <rect x="380" y="356" width="772" height="72" rx="4" fill="#070d1a" stroke="#16233c"/>
       <rect x="380" y="356" width="3" height="72" fill="#00f0ff"/>

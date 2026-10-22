@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/arcade-banner.svg" alt="Arcade title screen: PLAYER 1 — Aryaman. Product Analyst, Drug Development Analytics, Eli Lilly." width="100%" />
+  <img src="./assets/arcade-banner.svg" alt="Arcade title screen: PLAYER 1 — Aryaman. Data Engineer, Drug Development Data Platforms, Eli Lilly." width="100%" />
 </div>
 
 <p align="center">
@@ -13,14 +13,14 @@
 
 ## &gt;&gt; PRESS START
 
-I'm **Aryaman** — a data and product analyst at **Eli Lilly and Company**. I build analytics products people actually open on Monday morning: not just dashboards, but the pipelines, logic and interfaces that turn a 3-day report backlog into a 30-second self-serve answer.
+I'm **Aryaman** — a data engineer at **Eli Lilly and Company**. I build governed data pipelines and AI-assisted engineering workflows for drug development: DDL validation, atomic Delta Lake migrations, and automated monitoring that turn manual, multi-hour processes into minutes.
 
 ---
 
 ## PLAYER PROFILE
 
 <div align="center">
-  <img src="./assets/player-card.svg" alt="Player profile: Aryaman (absterjr), Product Analyst at Eli Lilly and Company in Bengaluru, India. Main quest: drug development analytics across neuroscience and immunology. Playtime: 2+ years. Save file: B.Tech, Data Science & Engineering, Manipal Institute of Technology, GPA 8.27." width="100%" />
+  <img src="./assets/player-card.svg" alt="Player profile: Aryaman (absterjr), Data Engineer at Eli Lilly and Company in Bengaluru, India. Main quest: governed data pipelines and AI-assisted workflows for drug development. Playtime: 2+ years. Save file: B.Tech, Data Science & Engineering, Manipal Institute of Technology, GPA 8.27." width="100%" />
 </div>
 
 ---
@@ -36,7 +36,7 @@ I'm **Aryaman** — a data and product analyst at **Eli Lilly and Company**. I b
 ## ACHIEVEMENTS UNLOCKED
 
 <div align="center">
-  <img src="./assets/achievements.svg" alt="Achievements unlocked, 3 of 3 complete. Legendary SPEEDRUN: rebuilt weekly targeting from 8 hours to 15 minutes. Epic AUTOPILOT: chatbots deflect 60%+ of repetitive data queries. Rare POWER-UP: DDL validation cut table standardization from 30 minutes to 3 seconds, equipped by 80+ engineers." width="100%" />
+  <img src="./assets/achievements.svg" alt="Achievements unlocked, 4 of 4 complete. Legendary POWER-UP: Python/Streamlit DDL validation tool adopted by 20 engineers and 60+ analytics, cutting table standardization from 30 minutes to 3 seconds. Mythic COPILOT: embedded Claude Code into DDL quality checks, PR creation and schema validation on Databricks/Unity Catalog, compressing hours into minutes. Epic ATOMIC: migrated Redshift ETL to atomic MERGE-based Delta Lake loads across dev, QA and prod via GitHub Actions. Rare OVERWATCH: automated monitoring across 6 pipelines and 11 tables with scheduled KPI checks and tailored reports. Legacy: SPEEDRUN 8 hours to 15 minutes; AUTOPILOT 60%+ queries deflected." width="100%" />
 </div>
 
 ---
@@ -46,6 +46,20 @@ I'm **Aryaman** — a data and product analyst at **Eli Lilly and Company**. I b
 <div align="center">
   <img src="./assets/skill-tree.svg" alt="Skill tree: Power BI, Python, SQL, Databricks, Excel, LLMs, RAG, generative AI, NLP, Flask, FastAPI, PostgreSQL, GitHub Actions, Streamlit and Delta Lake. Education: B.Tech, Data Science and Engineering, Manipal Institute of Technology, GPA 8.27." width="100%" />
 </div>
+
+---
+
+## SIDE QUESTS
+
+<div align="center">
+  <img src="./assets/side-quests.svg" alt="Side quests: FundSift, a live fintech web app showing every stock behind every Indian mutual fund you own, with live NSE prices and 52-week drawdowns; Data Engineering Roadmap, an open-source 8-phase, first-principles roadmap to becoming a hands-on data engineer; UNSeQueL, a FROM-first query language with a Python prototype and DuckDB/TypeScript compiler. Links below." width="100%" />
+</div>
+
+<p align="center">
+  <a href="https://fundsift.vercel.app"><img src="https://img.shields.io/badge/FUNDSIFT-PLAY-39FF14?style=flat-square&logo=vercel&logoColor=black" alt="FundSift — live site" /></a>
+  <a href="https://github.com/absterjr/data-engineer-roadmap"><img src="https://img.shields.io/badge/ROADMAP-PLAY-00F0FF?style=flat-square&logo=github&logoColor=black" alt="Data Engineering Roadmap — GitHub repository" /></a>
+  <a href="https://absterjr.github.io/UNSeQueL/"><img src="https://img.shields.io/badge/UNSEQUEL-PLAY-FF2E88?style=flat-square&logo=github&logoColor=white" alt="UNSeQueL — project site" /></a>
+</p>
 
 ---
 
