@@ -21,7 +21,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?color_snake=#39ff14&color_dots=#0f1a17,#0e4429,#006d32,#26a641,#39d353
-            dist/snake.gif?color_snake=#39ff14&color_dots=#0f1a17,#0e4429,#006d32,#26a641,#39d353&color_background=#05070f
 
       - name: Paint arcade background
         run: |
