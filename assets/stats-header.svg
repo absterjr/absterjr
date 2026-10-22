@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-labelledby="statsTitle statsDesc">
+  <title id="statsTitle">Player stats</title>
+  <desc id="statsDesc">Game HUD header for the live GitHub stats scoreboard.</desc>
+
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#0b1424" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="140" fill="#05070f"/>
+  <rect width="1200" height="140" fill="url(#grid)" opacity="0.7"/>
+  <rect x="1" y="1" width="1198" height="138" fill="none" stroke="#1c2b47"/>
+  <g stroke="#00f0ff" stroke-width="2" opacity="0.55" fill="none">
+    <path d="M16 40 V16 H40"/>
+    <path d="M1160 16 H1184 V40"/>
+  </g>
+
+  <text x="48" y="64" font-family="Consolas, 'Courier New', monospace" font-size="28" font-weight="700" letter-spacing="5" fill="#39ff14" filter="url(#glow)">PLAYER STATS</text>
+  <circle cx="1010" cy="55" r="3" fill="#39ff14">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1152" y="60" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2" fill="#7df9ff">LIVE FEED  //  GITHUB</text>
+  <line x1="48" y1="86" x2="1152" y2="86" stroke="#1c2b47"/>
+
+  <text x="48" y="118" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2" fill="#61708c">STATS STREAM</text>
+
+  <g>
+    <rect x="170" y="122" width="4" height="6" fill="#39ff14">
+      <animate attributeName="height" values="6;18;10;16;6" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="122;110;118;112;122" dur="1.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="180" y="118" width="4" height="10" fill="#00f0ff">
+      <animate attributeName="height" values="10;6;18;8;10" dur="1.4s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="118;122;110;120;118" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="190" y="114" width="4" height="14" fill="#ff2e88">
+      <animate attributeName="height" values="14;8;6;18;14" dur="2.1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="114;120;122;110;114" dur="2.1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="200" y="120" width="4" height="8" fill="#ffd400">
+      <animate attributeName="height" values="8;16;12;6;8" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="120;112;116;122;120" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="210" y="116" width="4" height="12" fill="#7df9ff">
+      <animate attributeName="height" values="12;6;16;10;12" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="116;122;112;118;116" dur="1.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="650" y="118" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="9" letter-spacing="2" fill="#61708c">STARS  ·  COMMITS  ·  PULL REQUESTS  ·  LANGUAGES</text>
+  <text x="1152" y="118" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2" fill="#61708c">AUTO-REFRESH: DAILY</text>
+</svg>

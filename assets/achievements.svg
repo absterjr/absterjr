@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="achTitle achDesc">
+  <title id="achTitle">Achievements unlocked</title>
+  <desc id="achDesc">Three achievements. Legendary: Speedrun, rebuilt the weekly targeting process from 8 hours to 15 minutes. Epic: Autopilot, chatbots handle 60 percent or more of repetitive data queries. Rare: Power-up, DDL validation tool cut table standardization from 30 minutes to 3 seconds and was adopted by 80+ engineers and analysts.</desc>
+
+  <defs>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#0b1424" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" fill="#05070f"/>
+  <rect width="1200" height="420" fill="url(#grid)" opacity="0.7"/>
+  <rect x="1" y="1" width="1198" height="418" fill="none" stroke="#1c2b47"/>
+  <g stroke="#00f0ff" stroke-width="2" opacity="0.55" fill="none">
+    <path d="M16 40 V16 H40"/>
+    <path d="M1160 16 H1184 V40"/>
+    <path d="M1184 380 V404 H1160"/>
+    <path d="M40 404 H16 V380"/>
+  </g>
+
+  <text x="48" y="64" font-family="Consolas, 'Courier New', monospace" font-size="28" font-weight="700" letter-spacing="5" fill="#39ff14" filter="url(#glow)">ACHIEVEMENTS UNLOCKED</text>
+  <text x="1152" y="60" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2" fill="#ffd400">3 / 3 COMPLETE</text>
+  <line x1="48" y1="86" x2="1152" y2="86" stroke="#1c2b47"/>
+
+  <g font-family="Consolas, 'Courier New', monospace">
+    <g>
+      <rect x="48" y="118" width="356" height="250" rx="4" fill="#070d1a" stroke="#ffd400" stroke-opacity="0.45"/>
+      <rect x="48" y="118" width="356" height="4" fill="#ffd400"/>
+      <g transform="translate(198,144)" filter="url(#glow)">
+        <path d="M31 3 L57 3 L41 27 L57 27 L21 63 L29 37 L9 37 Z" fill="#7a5f00" opacity="0.7"/>
+        <path d="M28 0 L54 0 L38 24 L54 24 L18 60 L26 34 L6 34 Z" fill="#ffd400"/>
+      </g>
+      <text x="226" y="232" text-anchor="middle" font-size="10" letter-spacing="3" fill="#ffd400">LEGENDARY</text>
+      <text x="226" y="260" text-anchor="middle" font-size="21" font-weight="700" letter-spacing="2" fill="#e6f1ff">SPEEDRUN</text>
+      <text x="226" y="292" text-anchor="middle" font-size="14" fill="#8fa6c4">Weekly targeting process</text>
+      <text x="226" y="314" text-anchor="middle" font-size="14" fill="#ffd400">8 hours → 15 minutes</text>
+      <rect x="66" y="340" width="320" height="3" fill="#16233c"/>
+      <rect x="66" y="340" width="320" height="3" fill="#ffd400"/>
+      <text x="226" y="358" text-anchor="middle" font-size="9" letter-spacing="2" fill="#39ff14">UNLOCKED</text>
+    </g>
+
+    <g>
+      <rect x="422" y="118" width="356" height="250" rx="4" fill="#070d1a" stroke="#ff2e88" stroke-opacity="0.45"/>
+      <rect x="422" y="118" width="356" height="4" fill="#ff2e88"/>
+      <g transform="translate(572,144)" filter="url(#glow)">
+        <rect x="27" y="4" width="6" height="10" fill="#ff2e88"/>
+        <rect x="26" y="0" width="8" height="6" fill="#ffd400"/>
+        <rect x="0" y="22" width="6" height="14" fill="#ff2e88"/>
+        <rect x="54" y="22" width="6" height="14" fill="#ff2e88"/>
+        <rect x="6" y="12" width="48" height="36" rx="2" fill="#ff2e88"/>
+        <rect x="16" y="22" width="8" height="10" fill="#071226"/>
+        <rect x="36" y="22" width="8" height="10" fill="#071226"/>
+        <rect x="18" y="24" width="3" height="3" fill="#00f0ff"/>
+        <rect x="38" y="24" width="3" height="3" fill="#00f0ff"/>
+        <rect x="22" y="38" width="16" height="4" fill="#071226"/>
+        <rect x="22" y="48" width="16" height="10" fill="#ff2e88"/>
+      </g>
+      <text x="600" y="232" text-anchor="middle" font-size="10" letter-spacing="3" fill="#ff2e88">EPIC</text>
+      <text x="600" y="260" text-anchor="middle" font-size="21" font-weight="700" letter-spacing="2" fill="#e6f1ff">AUTOPILOT</text>
+      <text x="600" y="292" text-anchor="middle" font-size="14" fill="#8fa6c4">Chatbots deflect 60%+ of</text>
+      <text x="600" y="314" text-anchor="middle" font-size="14" fill="#ff2e88">repetitive data queries</text>
+      <rect x="440" y="340" width="320" height="3" fill="#16233c"/>
+      <rect x="440" y="340" width="320" height="3" fill="#ff2e88"/>
+      <text x="600" y="358" text-anchor="middle" font-size="9" letter-spacing="2" fill="#39ff14">UNLOCKED</text>
+    </g>
+
+    <g>
+      <rect x="796" y="118" width="356" height="250" rx="4" fill="#070d1a" stroke="#00f0ff" stroke-opacity="0.45"/>
+      <rect x="796" y="118" width="356" height="4" fill="#00f0ff"/>
+      <g transform="translate(946,144)" filter="url(#glow)">
+        <rect x="24" y="26" width="12" height="34" fill="#00f0ff"/>
+        <path d="M4 32 L30 4 L56 32 L44 32 L30 16 L16 32 Z" fill="#00f0ff"/>
+        <rect x="12" y="56" width="36" height="4" fill="#00f0ff" opacity="0.35"/>
+      </g>
+      <text x="974" y="232" text-anchor="middle" font-size="10" letter-spacing="3" fill="#00f0ff">RARE</text>
+      <text x="974" y="260" text-anchor="middle" font-size="21" font-weight="700" letter-spacing="2" fill="#e6f1ff">POWER-UP</text>
+      <text x="974" y="292" text-anchor="middle" font-size="14" fill="#8fa6c4">DDL validation: 30 min → 3 sec</text>
+      <text x="974" y="314" text-anchor="middle" font-size="14" fill="#00f0ff">equipped by 80+ engineers</text>
+      <rect x="814" y="340" width="320" height="3" fill="#16233c"/>
+      <rect x="814" y="340" width="320" height="3" fill="#00f0ff"/>
+      <text x="974" y="358" text-anchor="middle" font-size="9" letter-spacing="2" fill="#39ff14">UNLOCKED</text>
+    </g>
+
+    <line x1="48" y1="390" x2="1152" y2="390" stroke="#1c2b47"/>
+    <text x="48" y="408" font-size="10" letter-spacing="2" fill="#61708c">RARITY: LEGENDARY  ·  EPIC  ·  RARE</text>
+    <text x="1152" y="408" text-anchor="end" font-size="10" letter-spacing="2" fill="#39ff14">ALL ACHIEVEMENTS UNLOCKED</text>
+  </g>
+</svg>

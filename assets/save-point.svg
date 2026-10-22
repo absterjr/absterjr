@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="saveTitle saveDesc">
+  <title id="saveTitle">Save point</title>
+  <desc id="saveDesc">Game save point panel. Most production work lives inside Eli Lilly's internal systems. The impact is public on LinkedIn and the walkthrough is on the portfolio at absterjr.github.io/aryaman. Prompt: select destination.</desc>
+
+  <defs>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#0b1424" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="#05070f"/>
+  <rect width="1200" height="320" fill="url(#grid)" opacity="0.7"/>
+  <rect x="1" y="1" width="1198" height="318" fill="none" stroke="#1c2b47"/>
+  <g stroke="#00f0ff" stroke-width="2" opacity="0.55" fill="none">
+    <path d="M16 40 V16 H40"/>
+    <path d="M1160 16 H1184 V40"/>
+    <path d="M1184 280 V304 H1160"/>
+    <path d="M40 304 H16 V280"/>
+  </g>
+
+  <text x="48" y="64" font-family="Consolas, 'Courier New', monospace" font-size="28" font-weight="700" letter-spacing="5" fill="#39ff14" filter="url(#glow)">SAVE POINT</text>
+  <text x="1152" y="60" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2" fill="#7df9ff">AUTO-SAVE  //  ON</text>
+  <line x1="48" y1="86" x2="1152" y2="86" stroke="#1c2b47"/>
+
+  <ellipse cx="148" cy="188" rx="100" ry="84" fill="#00f0ff" opacity="0.05"/>
+  <g>
+    <path d="M84 120 H188 L212 144 V248 H84 Z" fill="#071018" stroke="#00f0ff" stroke-width="3"/>
+    <rect x="116" y="120" width="60" height="34" fill="#0b1620" stroke="#00f0ff" stroke-width="2"/>
+    <rect x="134" y="124" width="24" height="14" fill="#05070f"/>
+    <rect x="104" y="174" width="88" height="52" fill="#ff2e88" opacity="0.85"/>
+    <text x="148" y="196" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" letter-spacing="1" fill="#05070f">ARYAMAN</text>
+    <text x="148" y="212" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="7" letter-spacing="1" fill="#05070f">SAVE 01</text>
+    <circle cx="194" cy="232" r="4" fill="#39ff14">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="96" y="236" width="64" height="3" fill="#0b1620"/>
+  </g>
+
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="260" y="152" font-size="26" font-weight="700" letter-spacing="3" fill="#39ff14" filter="url(#glow)">CONTINUE?</text>
+    <text x="260" y="192" font-size="15" fill="#cfdcf2">Most of my production work lives inside Eli Lilly's internal systems.</text>
+    <text x="260" y="218" font-size="13" fill="#8fa6c4">The impact is public on LinkedIn. The walkthrough is on my portfolio.</text>
+    <text x="260" y="262" font-size="14" letter-spacing="1" fill="#7df9ff">&gt; SELECT DESTINATION</text>
+    <rect x="442" y="250" width="8" height="14" fill="#39ff14">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="260" y="290" font-size="10" letter-spacing="2" fill="#61708c">AUTO-SAVE ENABLED</text>
+    <text x="1152" y="290" text-anchor="end" font-size="10" letter-spacing="2" fill="#61708c">THANKS FOR PLAYING</text>
+  </g>
+</svg>

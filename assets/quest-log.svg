@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-labelledby="questTitle questDesc">
+  <title id="questTitle">Quest log — Eli Lilly and Company career acts</title>
+  <desc id="questDesc">Quest log for Eli Lilly and Company, Bengaluru, India, January 2024 to present. Act IV: Consultant, Data Engineering, December 2025 to present, active. Act III: Associate, BI and A Product Analytics, January 2025 to December 2025, cleared. Act II: Associate, BI and A Neuroscience Analytics, July 2024 to January 2025, cleared. Act I: Intern, BI and A Immunology Analytics, January 2024 to July 2024, cleared.</desc>
+
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#0b1424" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="430" fill="#05070f"/>
+  <rect width="1200" height="430" fill="url(#grid)" opacity="0.7"/>
+  <rect x="1" y="1" width="1198" height="428" fill="none" stroke="#1c2b47"/>
+  <g stroke="#00f0ff" stroke-width="2" opacity="0.55" fill="none">
+    <path d="M16 40 V16 H40"/>
+    <path d="M1160 16 H1184 V40"/>
+    <path d="M1184 390 V414 H1160"/>
+    <path d="M40 414 H16 V390"/>
+  </g>
+
+  <text x="48" y="64" font-family="Consolas, 'Courier New', monospace" font-size="28" font-weight="700" letter-spacing="5" fill="#39ff14" filter="url(#glow)">QUEST LOG</text>
+  <text x="1152" y="60" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2" fill="#7df9ff">MAIN STORY  //  4 ACTS</text>
+  <line x1="48" y1="86" x2="1152" y2="86" stroke="#1c2b47"/>
+
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="48" y="116" font-size="11" letter-spacing="2" fill="#ffd400">MAIN STORY</text>
+    <text x="152" y="116" font-size="11" letter-spacing="2" fill="#8fa6c4">ELI LILLY AND COMPANY  ·  BENGALURU, INDIA  ·  JAN 2024 – PRESENT</text>
+
+    <line x1="80" y1="150" x2="80" y2="368" stroke="#1c2b47" stroke-width="2"/>
+    <line x1="112" y1="204" x2="980" y2="204" stroke="#101a2e"/>
+    <line x1="112" y1="264" x2="980" y2="264" stroke="#101a2e"/>
+    <line x1="112" y1="324" x2="980" y2="324" stroke="#101a2e"/>
+
+    <path d="M73 143 L87 143 L80 152 Z" fill="#ffd400">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+    </path>
+
+    <g>
+      <rect x="72" y="160" width="16" height="16" transform="rotate(45 80 168)" fill="#ffd400" filter="url(#glow)"/>
+      <rect x="66" y="154" width="28" height="28" transform="rotate(45 80 168)" fill="none" stroke="#ffd400" stroke-width="1.5">
+        <animate attributeName="opacity" values="0.9;0.15;0.9" dur="1.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="112" y="174" font-size="12" letter-spacing="2" fill="#ffd400">ACT IV</text>
+      <text x="200" y="172" font-size="17" fill="#e6f1ff">Consultant – Data Engineering</text>
+      <text x="200" y="194" font-size="12" fill="#8fa6c4">Dec 2025 – Present</text>
+      <rect x="1000" y="154" width="152" height="28" rx="2" fill="#151203" stroke="#ffd400" stroke-opacity="0.7"/>
+      <circle cx="1018" cy="168" r="3" fill="#ffd400">
+        <animate attributeName="opacity" values="1;0.15;1" dur="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="1034" y="172" font-size="10" letter-spacing="2" fill="#ffd400">ACTIVE</text>
+    </g>
+
+    <g>
+      <rect x="74" y="222" width="12" height="12" transform="rotate(45 80 228)" fill="#39ff14"/>
+      <rect x="77" y="225" width="6" height="6" transform="rotate(45 80 228)" fill="#07150b"/>
+      <text x="112" y="234" font-size="12" letter-spacing="2" fill="#39ff14">ACT III</text>
+      <text x="200" y="232" font-size="17" fill="#e6f1ff">Associate – BI&amp;A Product Analytics</text>
+      <text x="200" y="254" font-size="12" fill="#8fa6c4">Jan 2025 – Dec 2025</text>
+      <rect x="1000" y="214" width="152" height="28" rx="2" fill="#07150b" stroke="#1f8a12" stroke-opacity="0.7"/>
+      <path d="M1014 228 l4 4 l8 -10" fill="none" stroke="#39ff14" stroke-width="2"/>
+      <text x="1040" y="232" font-size="10" letter-spacing="2" fill="#39ff14">CLEARED</text>
+    </g>
+
+    <g>
+      <rect x="74" y="282" width="12" height="12" transform="rotate(45 80 288)" fill="#39ff14"/>
+      <rect x="77" y="285" width="6" height="6" transform="rotate(45 80 288)" fill="#07150b"/>
+      <text x="112" y="294" font-size="12" letter-spacing="2" fill="#39ff14">ACT II</text>
+      <text x="200" y="292" font-size="17" fill="#e6f1ff">Associate – BI&amp;A Neuroscience Analytics</text>
+      <text x="200" y="314" font-size="12" fill="#8fa6c4">Jul 2024 – Jan 2025</text>
+      <rect x="1000" y="274" width="152" height="28" rx="2" fill="#07150b" stroke="#1f8a12" stroke-opacity="0.7"/>
+      <path d="M1014 288 l4 4 l8 -10" fill="none" stroke="#39ff14" stroke-width="2"/>
+      <text x="1040" y="292" font-size="10" letter-spacing="2" fill="#39ff14">CLEARED</text>
+    </g>
+
+    <g>
+      <rect x="74" y="342" width="12" height="12" transform="rotate(45 80 348)" fill="#39ff14"/>
+      <rect x="77" y="345" width="6" height="6" transform="rotate(45 80 348)" fill="#07150b"/>
+      <text x="112" y="354" font-size="12" letter-spacing="2" fill="#39ff14">ACT I</text>
+      <text x="200" y="352" font-size="17" fill="#e6f1ff">Intern – BI&amp;A Immunology Analytics</text>
+      <text x="200" y="374" font-size="12" fill="#8fa6c4">Jan 2024 – Jul 2024</text>
+      <rect x="1000" y="334" width="152" height="28" rx="2" fill="#07150b" stroke="#1f8a12" stroke-opacity="0.7"/>
+      <path d="M1014 348 l4 4 l8 -10" fill="none" stroke="#39ff14" stroke-width="2"/>
+      <text x="1040" y="352" font-size="10" letter-spacing="2" fill="#39ff14">CLEARED</text>
+    </g>
+
+    <line x1="48" y1="400" x2="1152" y2="400" stroke="#1c2b47"/>
+    <text x="48" y="418" font-size="10" letter-spacing="2" fill="#61708c">STATUS: QUESTLINE IN PROGRESS</text>
+    <text x="1152" y="418" text-anchor="end" font-size="10" letter-spacing="2" fill="#61708c">4 / 4 ACTS UNLOCKED</text>
+  </g>
+</svg>
