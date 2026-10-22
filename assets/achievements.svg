@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 570" width="1200" height="570" role="img" aria-labelledby="achTitle achDesc">
   <title id="achTitle">Achievements unlocked</title>
-  <desc id="achDesc">Four achievements. Legendary POWER-UP: Python and Streamlit DDL validation tool adopted by 20 engineers and 60+ analytics members, cutting table standardization from 30 minutes to 3 seconds with unlimited batch processing. Mythic COPILOT: embedded Claude Code into DDL quality checks, PR creation and schema validation on Databricks Unity Catalog, compressing multi-hour work into minutes. Epic ATOMIC: migrated Redshift ETL to atomic MERGE-based Delta Lake loads across dev, QA and prod via GitHub Actions, eliminating data integrity risks. Rare OVERWATCH: automated monitoring across 6 pipelines and 11 tables with scheduled KPI checks and auto-distributed reports. Legacy achievements: SPEEDRUN, 8 hours to 15 minutes; AUTOPILOT, 60%+ repetitive queries deflected.</desc>
+  <desc id="achDesc">Four achievements. Legendary POWER-UP: Python and Streamlit DDL validation tool adopted by 20 engineers and 60+ analytics members, cutting table standardization from 30 minutes to 3 seconds with unlimited batch processing. Mythic COPILOT: embedded Claude Code into DDL quality checks, PR creation and schema validation on Databricks Unity Catalog, compressing multi-hour work into minutes. Epic ATOMIC: migrated Redshift ETL to atomic MERGE-based Delta Lake loads on Databricks across dev, QA and prod via GitHub Actions, eliminating data integrity risks. Rare OVERWATCH: automated monitoring across 6 pipelines and 11 tables with scheduled KPI checks and auto-distributed reports. Legacy achievements: SPEEDRUN, 8 hours to 15 minutes; AUTOPILOT, 60%+ repetitive queries deflected.</desc>
 
   <defs>
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
@@ -82,7 +82,7 @@
       <text x="160" y="390" font-size="22" font-weight="700" letter-spacing="2" fill="#e6f1ff">ATOMIC</text>
       <text x="160" y="422" font-size="13" fill="#8fa6c4">Redshift ETL → atomic MERGE on Delta Lake</text>
       <text x="160" y="444" font-size="13" fill="#00f0ff">dev/qa/prod via GitHub Actions · zero integrity risk</text>
-      <text x="160" y="468" font-size="12" fill="#61708c">eliminating non-atomic data integrity risks</text>
+      <text x="160" y="468" font-size="12" fill="#61708c">on Databricks · non-atomic write risks eliminated</text>
       <rect x="48" y="504" width="540" height="4" fill="#00f0ff" opacity="0.8"/>
     </g>
 

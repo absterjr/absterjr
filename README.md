@@ -36,7 +36,7 @@ I'm **Aryaman** — a data engineer at **Eli Lilly and Company**. I build govern
 ## ACHIEVEMENTS UNLOCKED
 
 <div align="center">
-  <img src="./assets/achievements.svg" alt="Achievements unlocked, 4 of 4 complete. Legendary POWER-UP: Python/Streamlit DDL validation tool adopted by 20 engineers and 60+ analytics, cutting table standardization from 30 minutes to 3 seconds. Mythic COPILOT: embedded Claude Code into DDL quality checks, PR creation and schema validation on Databricks/Unity Catalog, compressing hours into minutes. Epic ATOMIC: migrated Redshift ETL to atomic MERGE-based Delta Lake loads across dev, QA and prod via GitHub Actions. Rare OVERWATCH: automated monitoring across 6 pipelines and 11 tables with scheduled KPI checks and tailored reports. Legacy: SPEEDRUN 8 hours to 15 minutes; AUTOPILOT 60%+ queries deflected." width="100%" />
+  <img src="./assets/achievements.svg" alt="Achievements unlocked, 4 of 4 complete. Legendary POWER-UP: Python/Streamlit DDL validation tool adopted by 20 engineers and 60+ analytics, cutting table standardization from 30 minutes to 3 seconds. Mythic COPILOT: embedded Claude Code into DDL quality checks, PR creation and schema validation on Databricks/Unity Catalog, compressing hours into minutes. Epic ATOMIC: migrated Redshift ETL to atomic MERGE-based Delta Lake loads on Databricks across dev, QA and prod via GitHub Actions. Rare OVERWATCH: automated monitoring across 6 pipelines and 11 tables with scheduled KPI checks and tailored reports. Legacy: SPEEDRUN 8 hours to 15 minutes; AUTOPILOT 60%+ queries deflected." width="100%" />
 </div>
 
 ---
