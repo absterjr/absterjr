@@ -67,7 +67,7 @@ I'm **Aryaman** — a data and product analyst at **Eli Lilly and Company**. I b
 Every night a snake eats my contribution graph. It has not beaten the high score yet.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/absterjr/absterjr/output/snake.gif" alt="Snake game eating my GitHub contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/absterjr/absterjr/output/snake.svg" alt="Snake game eating my GitHub contribution graph" width="100%" />
 </div>
 
 ---

@@ -20,8 +20,19 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
+            dist/snake.svg?color_snake=#39ff14&color_dots=#0f1a17,#0e4429,#006d32,#26a641,#39d353
             dist/snake.gif?color_snake=#39ff14&color_dots=#0f1a17,#0e4429,#006d32,#26a641,#39d353&color_background=#05070f
+
+      - name: Paint arcade background
+        run: |
+          python - <<'PY'
+          import pathlib
+          p = pathlib.Path("dist/snake.svg")
+          svg = p.read_text()
+          bg = '<rect x="-16" y="-32" width="880" height="192" fill="#05070f"/>'
+          svg = svg.replace("</desc>", "</desc>" + bg, 1)
+          p.write_text(svg)
+          PY
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
