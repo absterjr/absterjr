@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="profileTitle profileDesc">
   <title id="profileTitle">Player profile — Aryaman</title>
-  <desc id="profileDesc">Game character sheet. Player: Aryaman, handle absterjr. Class: Data Engineer. Guild: Eli Lilly and Company. Server: Bengaluru, India. Main quest: governed data pipelines and AI-assisted workflows for drug development. Playtime: 2+ years. Save file: B.Tech in Data Science and Engineering, Manipal Institute of Technology, GPA 8.27.</desc>
+  <desc id="profileDesc">Game character sheet. Player: Aryaman, handle absterjr. Class: Data Engineer. Guild: Eli Lilly and Company. Server: Bengaluru, India. Main quest: governed data pipelines and AI-assisted workflows for drug development. Playtime: 2+ years. Rank: Consultant, Data Engineering.</desc>
 
   <defs>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
@@ -114,8 +114,8 @@
 
       <rect x="380" y="356" width="772" height="72" rx="4" fill="#070d1a" stroke="#16233c"/>
       <rect x="380" y="356" width="3" height="72" fill="#00f0ff"/>
-      <text x="400" y="378" font-size="9" letter-spacing="2" fill="#61708c">SAVE FILE</text>
-      <text x="400" y="406" font-size="14" fill="#e6f1ff">B.Tech, Data Science &amp; Engineering · Manipal Institute of Technology · GPA 8.27</text>
+      <text x="400" y="378" font-size="9" letter-spacing="2" fill="#61708c">RANK</text>
+      <text x="400" y="406" font-size="15" fill="#e6f1ff">Consultant – Data Engineering</text>
 
     </g>
 

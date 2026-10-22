@@ -13,19 +13,15 @@
 
 ## &gt;&gt; PRESS START
 
-I'm **Aryaman** — a data engineer at **Eli Lilly and Company**. I build governed data pipelines and AI-assisted engineering workflows for drug development: DDL validation, atomic Delta Lake migrations, and automated monitoring that turn manual, multi-hour processes into minutes.
+I'm **Aryaman** — a data engineer at **Eli Lilly and Company**. I build governed data pipelines and AI-assisted engineering workflows for drug development: DDL validation, atomic Delta Lake migrations, and automated monitoring across ~5B records and 10+ data products — turning manual, multi-hour processes into minutes.
 
 ---
 
-## PLAYER PROFILE
-
 <div align="center">
-  <img src="./assets/player-card.svg" alt="Player profile: Aryaman (absterjr), Data Engineer at Eli Lilly and Company in Bengaluru, India. Main quest: governed data pipelines and AI-assisted workflows for drug development. Playtime: 2+ years. Save file: B.Tech, Data Science & Engineering, Manipal Institute of Technology, GPA 8.27." width="100%" />
+  <img src="./assets/player-card.svg" alt="Player profile: Aryaman (absterjr), Data Engineer at Eli Lilly and Company in Bengaluru, India. Main quest: governed data pipelines and AI-assisted workflows for drug development. Playtime: 2+ years. Rank: Consultant – Data Engineering." width="100%" />
 </div>
 
 ---
-
-## QUEST LOG
 
 <div align="center">
   <img src="./assets/quest-log.svg" alt="Quest log at Eli Lilly and Company, Bengaluru, India, January 2024 to present. Act IV: Consultant – Data Engineering, Dec 2025 to present, active. Act III: Associate – BI&A Product Analytics, Jan 2025 to Dec 2025, cleared. Act II: Associate – BI&A Neuroscience Analytics, Jul 2024 to Jan 2025, cleared. Act I: Intern – BI&A Immunology Analytics, Jan 2024 to Jul 2024, cleared." width="100%" />
@@ -33,23 +29,17 @@ I'm **Aryaman** — a data engineer at **Eli Lilly and Company**. I build govern
 
 ---
 
-## ACHIEVEMENTS UNLOCKED
-
 <div align="center">
-  <img src="./assets/achievements.svg" alt="Achievements unlocked, 4 of 4 complete. Legendary POWER-UP: Python/Streamlit DDL validation tool adopted by 20 engineers and 60+ analytics, cutting table standardization from 30 minutes to 3 seconds. Mythic COPILOT: embedded Claude Code into DDL quality checks, PR creation and schema validation on Databricks/Unity Catalog, compressing hours into minutes. Epic ATOMIC: migrated Redshift ETL to atomic MERGE-based Delta Lake loads on Databricks across dev, QA and prod via GitHub Actions. Rare OVERWATCH: automated monitoring across 6 pipelines and 11 tables with scheduled KPI checks and tailored reports. Legacy: SPEEDRUN 8 hours to 15 minutes; AUTOPILOT 60%+ queries deflected." width="100%" />
+  <img src="./assets/achievements.svg" alt="Achievements unlocked, 4 of 4 complete. Legendary POWER-UP: Python/Streamlit DDL validation tool built with sqlglot, adopted by 20 engineers and 60+ analytics, cutting table standardization from 30 minutes to 3 seconds. Mythic COPILOT: embedded Claude Code into DDL quality checks, PR creation and schema validation on Databricks/Unity Catalog, compressing hours into minutes; built 11 slash commands, shared 15+ reusable skills and enabled 20+ team members. Epic ATOMIC: migrated Redshift ETL to atomic MERGE-based Delta Lake loads on Databricks across dev, QA and prod via GitHub Actions. Rare OVERWATCH: automated monitoring across 6 pipelines and 11 tables with scheduled KPI checks and tailored reports. Legacy: SPEEDRUN 8 hours to 15 minutes; AUTOPILOT 60%+ queries deflected." width="100%" />
 </div>
 
 ---
-
-## SKILL TREE
 
 <div align="center">
   <img src="./assets/skill-tree.svg" alt="Skill tree: Power BI, Python, SQL, Databricks, Excel, LLMs, RAG, generative AI, NLP, Flask, FastAPI, PostgreSQL, GitHub Actions, Streamlit and Delta Lake. Education: B.Tech, Data Science and Engineering, Manipal Institute of Technology, GPA 8.27." width="100%" />
 </div>
 
 ---
-
-## SIDE QUESTS
 
 <div align="center">
   <img src="./assets/side-quests.svg" alt="Side quests: FundSift, a live fintech web app showing every stock behind every Indian mutual fund you own, with live NSE prices and 52-week drawdowns; Data Engineering Roadmap, an open-source 8-phase, first-principles roadmap to becoming a hands-on data engineer; UNSeQueL, a FROM-first query language with a Python prototype and DuckDB/TypeScript compiler. Links below." width="100%" />
@@ -73,8 +63,6 @@ Every night a snake eats my contribution graph. It has not beaten the high score
 
 ---
 
-## PLAYER STATS
-
 <div align="center">
   <img src="./assets/stats-header.svg" alt="Player stats HUD — live GitHub scoreboard" width="100%" />
 </div>
@@ -85,8 +73,6 @@ Every night a snake eats my contribution graph. It has not beaten the high score
 </p>
 
 ---
-
-## SAVE POINT
 
 <div align="center">
   <img src="./assets/save-point.svg" alt="Save point: most of my production work lives inside Eli Lilly's internal systems. The impact is public on LinkedIn and the walkthrough is on my portfolio at absterjr.github.io/aryaman. Select destination." width="100%" />
