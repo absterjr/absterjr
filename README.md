@@ -1,87 +1,88 @@
-<h1 align="center">Hi, I'm Aryaman</h1>
-<h3 align="center">Product Analyst · Drug Development Analytics · Eli Lilly</h3>
-<h4 align="center">I build analytics products people actually open on Monday morning.</h4>
+<div align="center">
+  <img src="./assets/arcade-banner.svg" alt="Arcade title screen: PLAYER 1 — Aryaman. Product Analyst, Drug Development Analytics, Eli Lilly." width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=absterjr&label=Profile%20views&color=0e75b6&style=flat" alt="absterjr" />
-  <a href="https://linkedin.com/in/absterjr"><img src="https://img.shields.io/badge/LinkedIn-absterjr-0077B5?style=flat&logo=linkedin" /></a>
-  <a href="https://aryaman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-aryaman-1F3864?style=flat&logo=google-chrome" /></a>
-  <a href="mailto:aryamananand5@gmail.com"><img src="https://img.shields.io/badge/Email-aryamananand5@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/absterjr"><img src="https://img.shields.io/badge/LINKEDIN-absterjr-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aryamananand5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-aryamananand5@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://aryaman.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-aryaman.vercel.app-39FF14?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=absterjr&label=PLAYERS&color=39ff14&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## What I do
+## &gt;&gt; PRESS START
 
-I'm a data and product analyst with **2+ years at Eli Lilly** building end-to-end analytics products across pharmaceutical drug development, neuroscience, and immunology.
-
-Not just dashboards — pipelines, logic, and interfaces that turn a 3-day report backlog into a self-serve answer in 30 seconds.
-
-**What that's looked like in practice:**
-
-- ⚡ A weekly targeting process that consumed **8 hours now takes 15 minutes**
-- 🤖 Chatbots I deployed handle **60%+ of repetitive data queries** — so teams focus on strategy, not data wrangling
-- 🛠️ A DDL validation tool cut table standardization from **30 minutes to 3 seconds**, adopted by 80+ engineers and analysts
+I'm **Aryaman** — a data and product analyst at **Eli Lilly and Company**. I build analytics products people actually open on Monday morning: not just dashboards, but the pipelines, logic and interfaces that turn a 3-day report backlog into a 30-second self-serve answer.
 
 ---
 
-## Tech Stack
+## PLAYER PROFILE
 
-**Analytics & BI**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-**AI & Machine Learning**
-
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Architecture-00897B?style=flat)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat)
-![NLP](https://img.shields.io/badge/NLP-5C6BC0?style=flat)
-
-**Engineering & Development**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat)
+| STAT | VALUE |
+|:---|:---|
+| **PLAYER** | Aryaman (`absterjr`) |
+| **CLASS** | Product Analyst |
+| **GUILD** | Eli Lilly and Company |
+| **SERVER** | Bengaluru, India |
+| **MAIN QUEST** | Drug development analytics across neuroscience and immunology |
+| **PLAYTIME** | 2+ years |
+| **SAVE FILE** | B.Tech, Data Science & Engineering — Manipal Institute of Technology (GPA 8.27) |
 
 ---
 
-## Experience
+## QUEST LOG
 
-**Eli Lilly and Company** · Bengaluru, India · _Jan 2024 – Present_
+**MAIN STORY — Eli Lilly and Company** · Bengaluru, India · _Jan 2024 – Present_
 
-| Role | Period |
-|------|--------|
-| Consultant – Data Engineering | Dec 2025 – Present |
-| Associate – BI&A Product Analytics | Jan 2025 – Dec 2025 |
-| Associate – BI&A Neuroscience Analytics | Jul 2024 – Jan 2025 |
-| Intern – BI&A Immunology Analytics | Jan 2024 – Jul 2024 |
+| ACT | ROLE | UNLOCKED |
+|:---:|:---|:---|
+| IV | Consultant – Data Engineering | Dec 2025 – Present |
+| III | Associate – BI&A Product Analytics | Jan 2025 – Dec 2025 |
+| II | Associate – BI&A Neuroscience Analytics | Jul 2024 – Jan 2025 |
+| I | Intern – BI&A Immunology Analytics | Jan 2024 – Jul 2024 |
 
 ---
 
-## GitHub Stats
+## ACHIEVEMENTS UNLOCKED
+
+| BADGE | RARITY | HOW IT WAS UNLOCKED |
+|:---|:---:|:---|
+| **SPEEDRUN** | LEGENDARY | Rebuilt a weekly targeting process: **8 hours → 15 minutes** |
+| **AUTOPILOT** | EPIC | Deployed chatbots handling **60%+ of repetitive data queries** |
+| **POWER-UP** | RARE | DDL validation tool cut table standardization **30 minutes → 3 seconds**; equipped by **80+ engineers and analysts** |
+
+---
+
+## SKILL TREE
+
+<div align="center">
+  <img src="./assets/skill-tree.svg" alt="Skill tree: Power BI, Python, SQL, Databricks, Excel, LLMs, RAG, generative AI, NLP, Flask, FastAPI, PostgreSQL, GitHub Actions, Streamlit and Delta Lake. Education: B.Tech, Data Science and Engineering, Manipal Institute of Technology, GPA 8.27." width="100%" />
+</div>
+
+---
+
+## BONUS LEVEL: SNAKE
+
+Every night a snake eats my contribution graph. It has not beaten the high score yet.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/absterjr/absterjr/output/snake.gif" alt="Snake game eating my GitHub contribution graph" width="100%" />
+</div>
+
+---
+
+## PLAYER STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=absterjr&show_icons=true&theme=default&hide_border=true" alt="Aryaman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absterjr&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=absterjr&show_icons=true&hide_border=true&bg_color=05070F&title_color=39FF14&text_color=CFDCF2&icon_color=FF2E88&ring_color=39FF14" alt="Aryaman's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=absterjr&layout=compact&hide_border=true&bg_color=05070F&title_color=39FF14&text_color=CFDCF2" alt="Top languages" />
 </p>
 
 ---
 
-## Education
+## SAVE POINT
 
-**Manipal Institute of Technology** — B.Tech in Data Science and Engineering · GPA: 8.27 · 2020–2024
+Most of my production work lives inside Eli Lilly's internal systems. The impact is on [LinkedIn](https://linkedin.com/in/absterjr); the walkthrough is on my [portfolio](https://aryaman.vercel.app/).
 
----
-
-<p align="center">
-  Most of my production work lives inside Eli Lilly's internal systems.<br/>
-  The impact is on <a href="https://linkedin.com/in/absterjr">LinkedIn</a> and in my <a href="https://iamaryaman.tech">portfolio</a>.
-</p>
+<p align="center"><code>&gt;&gt; CONTINUE? [Y/N]</code></p>

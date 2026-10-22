@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-labelledby="skillsTitle skillsDesc">
+  <title id="skillsTitle">Skill tree — Aryaman's analytics, AI and engineering skills</title>
+  <desc id="skillsDesc">Retro game skill panel. Analytics and BI: Power BI, Python, SQL, Databricks, Excel. AI and machine learning: LLMs, RAG architecture, generative AI, NLP. Engineering and data: Flask, FastAPI, PostgreSQL, GitHub Actions, Streamlit, Delta Lake. Education: B.Tech in Data Science and Engineering, Manipal Institute of Technology, GPA 8.27, 2020 to 2024.</desc>
+
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#0b1424" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="600" fill="#05070f"/>
+  <rect width="1200" height="600" fill="url(#grid)" opacity="0.7"/>
+  <rect x="1" y="1" width="1198" height="598" fill="none" stroke="#1c2b47"/>
+  <g stroke="#00f0ff" stroke-width="2" opacity="0.55" fill="none">
+    <path d="M16 40 V16 H40"/>
+    <path d="M1160 16 H1184 V40"/>
+    <path d="M1184 560 V584 H1160"/>
+    <path d="M40 584 H16 V560"/>
+  </g>
+
+  <text x="48" y="64" font-family="Consolas, 'Courier New', monospace" font-size="28" font-weight="700" letter-spacing="5" fill="#39ff14" filter="url(#glow)">SKILL TREE</text>
+  <text x="1152" y="60" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2" fill="#7df9ff">PLAYTIME: 2+ YEARS  //  GUILD: ELI LILLY</text>
+  <line x1="48" y1="86" x2="1152" y2="86" stroke="#1c2b47"/>
+
+  <g font-family="Consolas, 'Courier New', monospace">
+    <rect x="52" y="114" width="8" height="8" fill="#ffd400"/>
+    <text x="70" y="126" font-size="14" letter-spacing="2" fill="#ffd400">ANALYTICS &amp; BI</text>
+    <text x="584" y="126" text-anchor="end" font-size="9" letter-spacing="2" fill="#61708c">MASTERY</text>
+
+    <text x="52" y="160" font-size="15" fill="#cfdcf2">Power BI</text>
+    <rect x="352" y="150" width="19" height="12" rx="1" fill="#ffd400"/><rect x="374" y="150" width="19" height="12" rx="1" fill="#ffd400"/><rect x="396" y="150" width="19" height="12" rx="1" fill="#ffd400"/><rect x="418" y="150" width="19" height="12" rx="1" fill="#ffd400"/><rect x="440" y="150" width="19" height="12" rx="1" fill="#ffd400"/><rect x="462" y="150" width="19" height="12" rx="1" fill="#ffd400"/><rect x="484" y="150" width="19" height="12" rx="1" fill="#ffd400"/><rect x="506" y="150" width="19" height="12" rx="1" fill="#ffd400"/><rect x="528" y="150" width="19" height="12" rx="1" fill="#ffd400"/><rect x="550" y="150" width="19" height="12" rx="1" fill="#182338"/>
+
+    <text x="52" y="200" font-size="15" fill="#cfdcf2">Python</text>
+    <rect x="352" y="190" width="19" height="12" rx="1" fill="#ffd400"/><rect x="374" y="190" width="19" height="12" rx="1" fill="#ffd400"/><rect x="396" y="190" width="19" height="12" rx="1" fill="#ffd400"/><rect x="418" y="190" width="19" height="12" rx="1" fill="#ffd400"/><rect x="440" y="190" width="19" height="12" rx="1" fill="#ffd400"/><rect x="462" y="190" width="19" height="12" rx="1" fill="#ffd400"/><rect x="484" y="190" width="19" height="12" rx="1" fill="#ffd400"/><rect x="506" y="190" width="19" height="12" rx="1" fill="#ffd400"/><rect x="528" y="190" width="19" height="12" rx="1" fill="#ffd400"/><rect x="550" y="190" width="19" height="12" rx="1" fill="#182338"/>
+
+    <text x="52" y="240" font-size="15" fill="#cfdcf2">SQL</text>
+    <rect x="352" y="230" width="19" height="12" rx="1" fill="#ffd400"/><rect x="374" y="230" width="19" height="12" rx="1" fill="#ffd400"/><rect x="396" y="230" width="19" height="12" rx="1" fill="#ffd400"/><rect x="418" y="230" width="19" height="12" rx="1" fill="#ffd400"/><rect x="440" y="230" width="19" height="12" rx="1" fill="#ffd400"/><rect x="462" y="230" width="19" height="12" rx="1" fill="#ffd400"/><rect x="484" y="230" width="19" height="12" rx="1" fill="#ffd400"/><rect x="506" y="230" width="19" height="12" rx="1" fill="#ffd400"/><rect x="528" y="230" width="19" height="12" rx="1" fill="#ffd400"/><rect x="550" y="230" width="19" height="12" rx="1" fill="#182338"/>
+
+    <text x="52" y="280" font-size="15" fill="#cfdcf2">Databricks</text>
+    <rect x="352" y="270" width="19" height="12" rx="1" fill="#ffd400"/><rect x="374" y="270" width="19" height="12" rx="1" fill="#ffd400"/><rect x="396" y="270" width="19" height="12" rx="1" fill="#ffd400"/><rect x="418" y="270" width="19" height="12" rx="1" fill="#ffd400"/><rect x="440" y="270" width="19" height="12" rx="1" fill="#ffd400"/><rect x="462" y="270" width="19" height="12" rx="1" fill="#ffd400"/><rect x="484" y="270" width="19" height="12" rx="1" fill="#ffd400"/><rect x="506" y="270" width="19" height="12" rx="1" fill="#ffd400"/><rect x="528" y="270" width="19" height="12" rx="1" fill="#182338"/><rect x="550" y="270" width="19" height="12" rx="1" fill="#182338"/>
+
+    <text x="52" y="320" font-size="15" fill="#cfdcf2">Excel</text>
+    <rect x="352" y="310" width="19" height="12" rx="1" fill="#ffd400"/><rect x="374" y="310" width="19" height="12" rx="1" fill="#ffd400"/><rect x="396" y="310" width="19" height="12" rx="1" fill="#ffd400"/><rect x="418" y="310" width="19" height="12" rx="1" fill="#ffd400"/><rect x="440" y="310" width="19" height="12" rx="1" fill="#ffd400"/><rect x="462" y="310" width="19" height="12" rx="1" fill="#ffd400"/><rect x="484" y="310" width="19" height="12" rx="1" fill="#ffd400"/><rect x="506" y="310" width="19" height="12" rx="1" fill="#ffd400"/><rect x="528" y="310" width="19" height="12" rx="1" fill="#ffd400"/><rect x="550" y="310" width="19" height="12" rx="1" fill="#182338"/>
+
+    <rect x="52" y="360" width="8" height="8" fill="#ff2e88"/>
+    <text x="70" y="372" font-size="14" letter-spacing="2" fill="#ff2e88">AI &amp; MACHINE LEARNING</text>
+    <text x="584" y="372" text-anchor="end" font-size="9" letter-spacing="2" fill="#61708c">MASTERY</text>
+
+    <text x="52" y="406" font-size="15" fill="#cfdcf2">LLMs</text>
+    <rect x="352" y="396" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="374" y="396" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="396" y="396" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="418" y="396" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="440" y="396" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="462" y="396" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="484" y="396" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="506" y="396" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="528" y="396" width="19" height="12" rx="1" fill="#182338"/><rect x="550" y="396" width="19" height="12" rx="1" fill="#182338"/>
+
+    <text x="52" y="446" font-size="15" fill="#cfdcf2">RAG Architecture</text>
+    <rect x="352" y="436" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="374" y="436" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="396" y="436" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="418" y="436" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="440" y="436" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="462" y="436" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="484" y="436" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="506" y="436" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="528" y="436" width="19" height="12" rx="1" fill="#182338"/><rect x="550" y="436" width="19" height="12" rx="1" fill="#182338"/>
+
+    <text x="52" y="486" font-size="15" fill="#cfdcf2">Generative AI</text>
+    <rect x="352" y="476" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="374" y="476" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="396" y="476" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="418" y="476" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="440" y="476" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="462" y="476" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="484" y="476" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="506" y="476" width="19" height="12" rx="1" fill="#182338"/><rect x="528" y="476" width="19" height="12" rx="1" fill="#182338"/><rect x="550" y="476" width="19" height="12" rx="1" fill="#182338"/>
+
+    <text x="52" y="526" font-size="15" fill="#cfdcf2">NLP</text>
+    <rect x="352" y="516" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="374" y="516" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="396" y="516" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="418" y="516" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="440" y="516" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="462" y="516" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="484" y="516" width="19" height="12" rx="1" fill="#ff2e88"/><rect x="506" y="516" width="19" height="12" rx="1" fill="#182338"/><rect x="528" y="516" width="19" height="12" rx="1" fill="#182338"/><rect x="550" y="516" width="19" height="12" rx="1" fill="#182338"/>
+
+    <rect x="628" y="114" width="8" height="8" fill="#00f0ff"/>
+    <text x="646" y="126" font-size="14" letter-spacing="2" fill="#00f0ff">ENGINEERING &amp; DATA</text>
+    <text x="1152" y="126" text-anchor="end" font-size="9" letter-spacing="2" fill="#61708c">MASTERY</text>
+
+    <text x="628" y="160" font-size="15" fill="#cfdcf2">Flask</text>
+    <rect x="928" y="150" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="950" y="150" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="972" y="150" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="994" y="150" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1016" y="150" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1038" y="150" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1060" y="150" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1082" y="150" width="19" height="12" rx="1" fill="#182338"/><rect x="1104" y="150" width="19" height="12" rx="1" fill="#182338"/><rect x="1126" y="150" width="19" height="12" rx="1" fill="#182338"/>
+
+    <text x="628" y="200" font-size="15" fill="#cfdcf2">FastAPI</text>
+    <rect x="928" y="190" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="950" y="190" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="972" y="190" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="994" y="190" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1016" y="190" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1038" y="190" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1060" y="190" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1082" y="190" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1104" y="190" width="19" height="12" rx="1" fill="#182338"/><rect x="1126" y="190" width="19" height="12" rx="1" fill="#182338"/>
+
+    <text x="628" y="240" font-size="15" fill="#cfdcf2">PostgreSQL</text>
+    <rect x="928" y="230" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="950" y="230" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="972" y="230" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="994" y="230" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1016" y="230" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1038" y="230" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1060" y="230" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1082" y="230" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1104" y="230" width="19" height="12" rx="1" fill="#182338"/><rect x="1126" y="230" width="19" height="12" rx="1" fill="#182338"/>
+
+    <text x="628" y="280" font-size="15" fill="#cfdcf2">GitHub Actions</text>
+    <rect x="928" y="270" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="950" y="270" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="972" y="270" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="994" y="270" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1016" y="270" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1038" y="270" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1060" y="270" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1082" y="270" width="19" height="12" rx="1" fill="#182338"/><rect x="1104" y="270" width="19" height="12" rx="1" fill="#182338"/><rect x="1126" y="270" width="19" height="12" rx="1" fill="#182338"/>
+
+    <text x="628" y="320" font-size="15" fill="#cfdcf2">Streamlit</text>
+    <rect x="928" y="310" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="950" y="310" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="972" y="310" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="994" y="310" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1016" y="310" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1038" y="310" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1060" y="310" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1082" y="310" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1104" y="310" width="19" height="12" rx="1" fill="#182338"/><rect x="1126" y="310" width="19" height="12" rx="1" fill="#182338"/>
+
+    <text x="628" y="360" font-size="15" fill="#cfdcf2">Delta Lake</text>
+    <rect x="928" y="350" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="950" y="350" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="972" y="350" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="994" y="350" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1016" y="350" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1038" y="350" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1060" y="350" width="19" height="12" rx="1" fill="#00f0ff"/><rect x="1082" y="350" width="19" height="12" rx="1" fill="#182338"/><rect x="1104" y="350" width="19" height="12" rx="1" fill="#182338"/><rect x="1126" y="350" width="19" height="12" rx="1" fill="#182338"/>
+  </g>
+
+  <g font-family="Consolas, 'Courier New', monospace">
+    <rect x="628" y="406" width="524" height="140" rx="4" fill="#070d1a" stroke="#1c2b47"/>
+    <rect x="628" y="406" width="4" height="140" fill="#ff2e88"/>
+    <text x="652" y="438" font-size="13" letter-spacing="2" fill="#ffd400">ACADEMY SAVE FILE</text>
+    <text x="652" y="468" font-size="15" fill="#e6f1ff">B.Tech — Data Science &amp; Engineering</text>
+    <text x="652" y="492" font-size="13" fill="#8fa6c4">Manipal Institute of Technology</text>
+    <text x="652" y="516" font-size="13" fill="#39ff14">GPA 8.27  ·  2020 – 2024</text>
+    <text x="652" y="538" font-size="10" letter-spacing="2" fill="#7df9ff">STATUS: GRADUATED</text>
+  </g>
+
+  <line x1="48" y1="566" x2="1152" y2="566" stroke="#1c2b47"/>
+  <text x="48" y="586" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2" fill="#61708c">STATUS: ONLINE  //  ACCEPTING NEW QUESTS</text>
+  <text x="1152" y="586" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2" fill="#61708c">SAVE OFTEN. SHIP OFTEN.</text>
+</svg>
